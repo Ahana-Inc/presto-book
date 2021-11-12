@@ -1,4 +1,4 @@
-# presto-getting-started
+# Learning and Operating Presto
 Code, scripts, examples for the "Learning and Operating Presto" O'Reilly Ebook
 
 # presto-local
